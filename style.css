@@ -118,6 +118,9 @@
     .container{
         max-width: 410px;
     }
+    .section_header {
+        height: 520px;
+    }
 }
 @media screen and (max-width:360px){
     .container{
